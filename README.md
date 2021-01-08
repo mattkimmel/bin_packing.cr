@@ -1,6 +1,6 @@
 # bin_packing
 
-This is a quick Crystal port of mak-it/bin_packing, @mak-it's Ruby implementation of the [Maximal Rectangles Algorithm](http://clb.demon.fi/files/RectangleBinPack.pdf). (If anyone has an English translation of that paper, please let me know!)
+This is a quick Crystal port of https://github.com/mak-it/bin_packing, a Ruby implementation of the [Maximal Rectangles Algorithm](http://clb.demon.fi/files/RectangleBinPack.pdf). (If anyone has an English translation of that paper, please let me know!)
 
 ## Installation
 
@@ -141,6 +141,7 @@ bin.record.id
 ```
 
 Export results to HTML:
+
 **Not Yet Implemented**
 
 ## Development
