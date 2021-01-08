@@ -1,0 +1,9 @@
+name: bin_packing
+version: 0.1.0
+
+authors:
+  - Matt Kimmel <matt@infinite-jest.net>
+
+crystal: 0.35.1
+
+license: MIT
